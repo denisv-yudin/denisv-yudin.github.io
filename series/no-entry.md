@@ -1,3 +1,28 @@
+<style>
+  .container {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 40px 20px !important;
+  }
+  
+  .sidebar {
+    display: none !important;
+  }
+  
+  .content {
+    width: 100% !important;
+    max-width: 1200px !important;
+    margin: 0 auto !important;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    cursor: pointer;
+  }
+</style>
+
 # No Entry (Прохода нет)
 
 *Four glass doors. Four frames. Four fleeting stories at the very same threshold.
@@ -5,18 +30,19 @@ The signs forbid entry, but life relentlessly flows outward. The city draws its 
 
 *Четыре стеклянные двери. Четыре рамки. Четыре мимолётные истории на одном и том же пороге.
 Таблички запрещают вход, но жизнь неумолимо стремится наружу. Город проводит свои границы, а люди просто переступают их, выходя из полумрака на свет. Отражения в холодном стекле, строгие жёлтые предупреждающие полосы и тихая хореография незнакомцев, которые делят это пространство лишь на одно мгновение — чтобы никогда больше не встретиться.*
+
 ---
 
 ## The Series
 
-![Empty doors](/images/No-entry-1.jpg)
-`I. The Gate` / `I. Врата`
-*Architecture as rhythm. Four doors, eight yellow bars, infinite reflections. No people, no story yet — just the geometry of passage, waiting for the next act.*
+[![Empty doors](/images/No-entry-1.jpg)](/images/No-entry-1.jpg)
+`I. The Gate` / `I. Врата`<br>
+*Architecture as rhythm. Four doors, eight yellow bars, infinite reflections. No people, no story yet — just the geometry of passage, waiting for the next act.*<br>
 *Архитектура как ритм. Четыре двери, восемь желтых полос, бесконечные отражения. Никаких людей, никакой истории — только геометрия прохода, ожидающая следующего акта.*
 
 ![Humans](/images/No-entry-2.jpg)
-`II. The Crossing`/ `II. Пересечение`
-*Motion meets stillness. A blurred figure rushes past while another lingers in the doorway, headphones on, world off. Two strangers sharing a threshold, each in their own universe.*
+`II. The Crossing`/ `II. Пересечение`<br>
+*Motion meets stillness. A blurred figure rushes past while another lingers in the doorway, headphones on, world off. Two strangers sharing a threshold, each in their own universe.*<br>
 *Движение встречает покой. Размытая фигура спешит мимо, пока другая задерживается в дверях, в наушниках, отключившись от мира. Два незнакомца на одном пороге, каждый в своей вселенной.*
 
 ![Humans](/images/No-entry-3.jpg)
