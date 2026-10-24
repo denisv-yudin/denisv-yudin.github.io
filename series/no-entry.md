@@ -6,7 +6,7 @@
 
 ## The Series
 
-![Empty doors](./images/1_IMG.jpg)
+![Empty doors](/images/1_IMG.jpg)
 *Кадр 1: Пустые двери, начало серии.*
 
 ![Architectural detail](./images/2_IMG.jpg)
