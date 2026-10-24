@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Denis Yudin — Photography</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+        
+        .profile {
+            display: flex;
+            align-items: center;
+            gap: 30px;
+            margin-bottom: 60px;
+            padding-bottom: 40px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .profile-photo {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            flex-shrink: 0;
+        }
+        
+        .bio h1 {
+            margin: 0 0 10px 0;
+            font-size: 2.5em;
+        }
+        
+        .bio p {
+            margin: 0;
+            color: #666;
+            font-size: 1.1em;
+        }
+        
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 30px;
+        }
+        
+        .series-card {
+            text-decoration: none;
+            color: inherit;
+            transition: transform 0.2s;
+        }
+        
+        .series-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .series-card img {
+            width: 100%;
+            height: 300px;
+            object-fit: cover;
+            border-radius: 4px;
+            margin-bottom: 15px;
+        }
+        
+        .series-card h2 {
+            margin: 0 0 5px 0;
+            font-size: 1.3em;
+        }
+        
+        .series-card p {
+            margin: 0;
+            color: #666;
+            font-size: 0.9em;
+        }
+        
+        @media (max-width: 768px) {
+            .profile {
+                flex-direction: column;
+                text-align: center;
+            }
+            
+            .gallery {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="profile">
+        <img src="images/profile.jpg" alt="Denis Yudin" class="profile-photo">
+        <div class="bio">
+            <h1>Denis Yudin</h1>
+            <p>Фотограф-любитель с аналитическим складом ума. Ценю глубину, атмосферность и честность в фотографии. Исследую композицию через призму Фримана и философию Сонтаг.</p>
+        </div>
+    </div>
+    
+    <div class="gallery">
+        <a href="series/no-entry.html" class="series-card">
+            <img src="images/no-entry-cover.jpg" alt="No Entry">
+            <h2>No Entry (Прохода нет)</h2>
+            <p>Визуальное исследование границ, отражений и городской изоляции</p>
+        </a>
+        
+        <a href="series/dancing-to-sun.html" class="series-card">
+            <img src="images/dancing-cover.jpg" alt="Dancing to the Sun">
+            <h2>Dancing to the Sun</h2>
+            <p>Осеннее утро, 9 AM. Танцовщица встречает рассвет в туманном парке</p>
+        </a>
+        
+        <!-- Добавьте больше серий здесь -->
+    </div>
+</body>
+</html>
