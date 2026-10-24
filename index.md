@@ -6,14 +6,15 @@
 
 ## The Series
 
-![Woman in black with bouquet](./photo1.jpg)
-*Кадр 1: Женщина в черном со шляпой и букетом, отражение мужчины в стекле.*
+![Empty doors](./1_IMG.jpg)
+*Кадр 1: Пустые двери, начало серии.*
 
-![Architectural detail](./photo2.jpg)
-*Кадр 2: Детали архитектуры, текстуры, переход.*
+![Architectural detail](./2_IMG.jpg)
 
-![Empty doors](./photo3.jpg)
-*Кадр 3: Пустые двери, завершающий аккорд серии.*
+![Architectural detail](./3_IMG.jpg)
+
+![Woman in black with bouquet](./4_IMG.jpg)
+*Кадр 4: Женщина в черном со шляпой и букетом, отражение мужчины в стекле, завершающий аккорд серии.*
 
 ---
 
