@@ -9,11 +9,11 @@
 ![Empty doors](./images/1_IMG.jpg)
 *Кадр 1: Пустые двери, начало серии.*
 
-![Architectural detail](../images/2_IMG.jpg)
+![Architectural detail](./images/2_IMG.jpg)
 
-![Architectural detail](../images/3_IMG.jpg)
+![Architectural detail](./images/3_IMG.jpg)
 
-![Woman in black with bouquet](../images/4_IMG.jpg)
+![Woman in black with bouquet](./images/4_IMG.jpg)
 *Кадр 4: Женщина в черном со шляпой и букетом, отражение мужчины в стекле, завершающий аккорд серии.*
 
 ---
